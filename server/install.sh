@@ -13,8 +13,8 @@ RED_COLOR="\033[31m"
 YELLOW_COLOR="\033[33m"
 
 # URL definition
-UNM_SERV_GIT_REPO="https://github.com/UnblockNeteaseMusic/server"
-UNM_SERV_SCRIPT_URL="https://raw.githubusercontent.com/UnblockNeteaseMusic/install-scripts/master/server/install.sh"
+UNM_SERV_GIT_REPO="https://github.com/myfsdaq/server"
+UNM_SERV_SCRIPT_URL="https://raw.githubusercontent.com/myfsdaq/install-scripts/master/server/install.sh"
 
 # File definition
 UNM_SERV_BIN_DIR="/usr/local/bin/unblockneteasemusic-server"
